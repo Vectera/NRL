@@ -1,32 +1,47 @@
 /* Blues Theme */
 
+@media screen and (max-width: 600px) {
+    .side {
+        display:none!important;
+    }
+    #sideTable {
+        margin-right: -315px!important;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .side h6{
+        display: none !important;
+    }
+}
+
 .submit .morelink {
-    background-position: 0px -34px;
+    background-position: 0px -34px!important;
 }
 
 .submit .morelink a {
-    color: #fff;
-    font-weight: bold;
+    color: #fff!important;
+    font-weight: bold!important;
 }
 
 .submit .morelink a:hover {
-    color: #002462;
-    text-shadow: 0px 0px 3px white;
+    color: #002462!important;
+    text-shadow: 0px 0px 3px white!important;
 }
 
 .titlebox thead tr:nth-child(n) {
-    background-position: -0px -22px;
-    color: #fff;
+    background-position: -0px -22px!important;
+    color: #fff!important;
 }
 
 #header-bottom-left .redditname a{
-    background-position: 0px -33px;
+    background-position: 0px -33px!important;
 }
 .arrow.upmod{
-    background-position:-30px -0px
+    background-position:-30px -0px!important;
 }
 .arrow.downmod{
-    background-position:-30px -14px
+    background-position:-30px -14px!important;
 }
 .res_comment_ups, .res_post_ups{
     color:#005a99!important
@@ -37,26 +52,26 @@
 }
 
 #header-bottom-right.res-navTop, #userbarToggle.userbarHide, #userbarToggle.userbarShow {
-    background: none; 
-    color:#005a99; 
-    border: none
+    background: none!important; 
+    color:#005a99!important; 
+    border: none!important
 }
 #header-bottom-right.res-navTop, #userbarToggle.userbarHide, #userbarToggle.userbarShow a{
-    background: none; 
-    color:#005a99; 
-    border: none;
+    background: none!important; 
+    color:#005a99!important; 
+    border: none!important;
 }
-#header-bottom-right a{color:#005a99} .user{color:#005a99}
+#header-bottom-right a{color:#005a99!important} .user{color:#005a99!important}
 #header .tabmenu li a{
-    color:#fff;
-    background-position: -0px -25px
+    color:#fff!important;
+    background-position: -0px -25px!important
 }
 #header .tabmenu li.selected a{
-    color:#005a99;
+    color:#005a99!important;
 }
 .morelink a {
-    color: #005a99;
+    color: #005a99!important;
 }
 .morelink a:hover {
-    color: #005a99;
+    color: #005a99!important
 }
