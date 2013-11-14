@@ -1,62 +1,62 @@
 /* Blues Theme */
 
-body:lang(nw) .submit .morelink {
+.submit .morelink {
     background-position: 0px -34px;
 }
 
-body:lang(nw) .submit .morelink a {
+.submit .morelink a {
     color: #fff;
     font-weight: bold;
 }
 
-body:lang(nw) .submit .morelink a:hover {
+.submit .morelink a:hover {
     color: #002462;
     text-shadow: 0px 0px 3px white;
 }
 
-body:lang(nw) .titlebox thead tr:nth-child(n) {
+.titlebox thead tr:nth-child(n) {
     background-position: -0px -22px;
     color: #fff;
 }
 
-body:lang(nw) #header-bottom-left .redditname a{
+#header-bottom-left .redditname a{
     background-position: 0px -33px;
 }
-body:lang(nw) .arrow.upmod{
+.arrow.upmod{
     background-position:-30px -0px
 }
-body:lang(nw) .arrow.downmod{
+.arrow.downmod{
     background-position:-30px -14px
 }
-body:lang(nw) .res_comment_ups, body:lang(nw) .res_post_ups{
+.res_comment_ups, .res_post_ups{
     color:#005a99!important
 }
 
-body:lang(nw) .link .score.likes{
+.link .score.likes{
     color:#005a99!important
 }
 
-body:lang(nw) #header-bottom-right.res-navTop, body:lang(nw) #userbarToggle.userbarHide, body:lang(nw) #userbarToggle.userbarShow {
+#header-bottom-right.res-navTop, #userbarToggle.userbarHide, #userbarToggle.userbarShow {
     background: none; 
     color:#005a99; 
     border: none
 }
-body:lang(nw) #header-bottom-right.res-navTop, body:lang(nw) #userbarToggle.userbarHide, body:lang(nw) #userbarToggle.userbarShow a{
+#header-bottom-right.res-navTop, #userbarToggle.userbarHide, #userbarToggle.userbarShow a{
     background: none; 
     color:#005a99; 
     border: none;
 }
-body:lang(nw) #header-bottom-right a{color:#005a99} body:lang(nw) .user{color:#005a99}
-body:lang(nw) #header .tabmenu li a{
+#header-bottom-right a{color:#005a99} .user{color:#005a99}
+#header .tabmenu li a{
     color:#fff;
     background-position: -0px -25px
 }
-body:lang(nw) #header .tabmenu li.selected a{
+#header .tabmenu li.selected a{
     color:#005a99;
 }
-body:lang(nw) .morelink a {
+.morelink a {
     color: #005a99;
 }
-body:lang(nw) .morelink a:hover {
+.morelink a:hover {
     color: #005a99;
 }
