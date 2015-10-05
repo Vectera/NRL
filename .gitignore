@@ -1,0 +1,8 @@
+node_modules/
+.sass-cache/
+dist/
+*.iml
+npm-debug.log
+coverage/
+.idea/
+.DS_Store
